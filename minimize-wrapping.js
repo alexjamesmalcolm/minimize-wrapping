@@ -21,9 +21,6 @@ function minimzeWrapping() {
 					if (pixelToNumber(getWidth(longestTag)) < tagWidth) {
 						longestTag = tag;
 					}
-					// if(getWidthAsNumber(longestTag) < tagWidth) {
-					// 	longestTag = tag;
-					// }
 				}
 			}
 		}
