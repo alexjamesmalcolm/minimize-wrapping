@@ -71,5 +71,3 @@ function minimzeWrapping() {
 		minimizeWrappingOnParent(container);
 	}
 }
-
-minimzeWrapping();
