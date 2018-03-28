@@ -1,4 +1,4 @@
-function minimzeWrapping() {
+function minimizeWrapping() {
 	const getWidth = element => {
 		return getComputedStyle(element).width;
 	}
